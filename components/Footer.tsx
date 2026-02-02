@@ -1,5 +1,5 @@
 import React from 'react';
-import { Instagram, Send, Phone } from 'lucide-react';
+import {Send, Phone } from 'lucide-react';
 
 export const Footer: React.FC = () => {
   return (
